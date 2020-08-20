@@ -1,2 +1,4 @@
-# basic-pwa
-Basic PWA
+# BASIC PWA
+
+
+Boilerplate for PWA Architecture
